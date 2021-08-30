@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 200px; 
+    justify-content: center;
+}
+
+button {
+    width: 160px; 
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#con-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#poly-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    margin: 10px;
+    padding: 5px;
+}
+
+#conSub {
+    width: 55px;  
+    height: 10px; 
+}
+
+#container {
+    margin-top: 55px; 
+    display: flex;
+    align-items: center; 
+}
+
